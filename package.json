@@ -9,7 +9,8 @@
   "scripts": {
     "test": "mocha",
     "dev": "node server.js",
-    "prod":"node server.js"
+    "prod":"node server.js",
+    "production":"node server.js"
   },
   "keywords": [
     "eth",
